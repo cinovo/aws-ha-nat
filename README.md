@@ -1,4 +1,6 @@
 aws-ha-nat
 ==========
 
-HA Nat
+AWS HA-NAT Bash-Script
+
+more info may follow...
